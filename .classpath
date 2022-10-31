@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="authmicroservice/src/main/java"/>
+	<classpathentry kind="src" path="authmicroservice/src/test/java"/>
+	<classpathentry kind="src" path="employee-microservice/src/main/java"/>
+	<classpathentry kind="src" path="employee-microservice/src/test/java"/>
+	<classpathentry kind="src" path="offer-microservice/.mvn/wrapper"/>
+	<classpathentry kind="src" path="offer-microservice/src/main/java"/>
+	<classpathentry kind="src" path="offer-microservice/src/test/java"/>
+	<classpathentry kind="src" path="PointsMicroservice/src/main/java"/>
+	<classpathentry excluding="com/cts/pointsmicroservice/model/" kind="src" path="PointsMicroservice/src/test/java"/>
+	<classpathentry kind="src" path="PointsMicroservice/src/test/java/com/cts/pointsmicroservice/model"/>
+	<classpathentry kind="output" path="PointsMicroservice/target/classes"/>
+</classpath>
